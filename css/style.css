@@ -1184,6 +1184,13 @@ nav {
     max-width: 97%;
 }
 
+@media (max-width: 767px) {
+    
+.how-img img {
+    max-width: 90%;
+}
+}
+
 .how-cards {
     display: flex;
     flex-direction: column;
